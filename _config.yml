@@ -1,12 +1,11 @@
 title: Haifeng Wang
-email: wanghaifeng@example.com
+email: Haifeng_Wang1031@163.com
 description: >-
   Personal blog — research notes, ideas, and writing.
 baseurl: ""
 url: "https://haifengwang1031.github.io"
 
-author:
-  name: Haifeng Wang
+author: Haifeng Wang
 
 theme: minima
 
