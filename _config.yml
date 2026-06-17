@@ -1,0 +1,35 @@
+title: Haifeng Wang
+email: wanghaifeng@example.com
+description: >-
+  Personal blog — research notes, ideas, and writing.
+baseurl: ""
+url: "https://haifengwang1031.github.io"
+
+author:
+  name: Haifeng Wang
+
+theme: minima
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+show_excerpts: true
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .bundle
+  - vendor
